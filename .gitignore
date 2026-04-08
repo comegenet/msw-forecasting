@@ -1,0 +1,18 @@
+# Dataset (trop lourd pour GitHub)
+austin_waste.csv
+
+# CodeCarbon
+emissions.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Environnements Python
+.env
+.venv
+env/

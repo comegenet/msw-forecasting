@@ -1,0 +1,10 @@
+darts==0.43.0
+prophet==1.3.0
+codecarbon==3.2.5
+chronos-forecasting==2.2.2
+plotly==6.6.0
+pytorch-lightning==2.6.1
+tqdm
+pandas
+numpy
+torch
