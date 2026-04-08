@@ -4,6 +4,12 @@ Miniprojet individuel réalisé dans le cadre du cours **3MD3090 – IA et Envir
 
 ---
 
+## Contexte
+
+La gestion des déchets municipaux est un problème d'optimisation logistique à enjeux environnementaux directs. Anticiper les volumes de déchets générés permet aux collectivités de dimensionner leurs flottes de collecte, de réduire les trajets à vide et de mieux planifier l'acheminement vers les sites de traitement. Les approches de machine learning appliquées à ce problème ont connu un essor important depuis les années 2010, progressant des modèles statistiques classiques (ARIMA) vers des architectures deep learning (LSTM, Transformer), puis récemment vers les foundation models de séries temporelles.
+
+---
+
 ## Objectif
 
 Ce projet reproduit partiellement les résultats de :
