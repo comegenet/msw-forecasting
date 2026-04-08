@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Municipal Solid Waste Forecasting
 
 Miniprojet individuel réalisé dans le cadre du cours **3MD3090 – IA et Environnement** à CentraleSupélec (Avril 2026), enseigné par Gilles Faÿ.
