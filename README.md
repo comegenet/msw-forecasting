@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Municipal Solid Waste Forecasting
 
 Miniprojet individuel réalisé dans le cadre du cours **3MD3090 – IA et Environnement** à CentraleSupélec (Avril 2026), enseigné par Gilles Faÿ.
@@ -51,6 +56,7 @@ msw-forecasting/
 ├── msw_forecasting.ipynb   # notebook principal
 ├── requirements.txt        # dépendances
 ├── README.md
+├── Mudannayake2022_MSW_Forecasting.pdf   # Mudannayake et al. (2022)
 └── .gitignore
 ```
 
